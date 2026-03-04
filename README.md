@@ -2,7 +2,7 @@
 
 A practical reference to the patterns, surfaces, and design principles behind AI agents — from primitives to production.
 
-**https://agent-experience.burcs.workers.dev**
+**https://agent-experience.dev**
 
 ## What is this?
 
