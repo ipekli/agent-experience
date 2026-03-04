@@ -1,0 +1,8 @@
+name = "agent-experience"
+# account_id = "" # set your own or use CLOUDFLARE_ACCOUNT_ID env var
+compatibility_date = "2025-04-01"
+
+[assets]
+directory = "./dist"
+html_handling = "drop-trailing-slash"
+not_found_handling = "single-page-application"
