@@ -992,6 +992,12 @@ export const patterns = [
           "Vercel Labs framework where AI produces interfaces from natural language, constrained to a developer-defined component catalog with Zod schema validation. Ships with 36 pre-built shadcn/ui components and works cross-platform.",
         url: "https://github.com/vercel-labs/json-render",
       },
+      {
+        name: "Tambo UI",
+        description:
+          "An open-source toolkit for connecting the existing UI components of the React app with the agent. In this way the agent is using the native UI components of the app to render its output, making the agent feel like a natural part of the application.",
+        url: "https://tambo.co/",
+      }
     ],
     links: [
       {
